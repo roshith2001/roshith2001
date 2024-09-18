@@ -2,8 +2,8 @@
 
 ## About Me
 🎓 MSc Computer Science Student  
-🚀 Founder & COO of EVOLVATES Community  
-🌟 Co-lead of MuLearn Community SJC Devagiri 
+🌟 Campus Lead of Tinkerhub Devagiri
+🚀 Founder of EVOLVATES Community  
 
 ## Skills
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -15,12 +15,11 @@
 ## Currently Learning
 🧠 Artificial Intelligence  
 🤖 Machine Learning  
-🔥 PyTorch  
 👁️ Computer Vision  
 
 ## Communities
-- Founder & COO of EVOLVATES
-- Co-lead of MuLearn Community
+- Founder of EVOLVATES
+- Campus Lead Tinkerhub Devagiri
 
 ## Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roshith-krishna-p/)
